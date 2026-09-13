@@ -18,7 +18,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # =========================================================
 
 # ⚠️ ОСЫ ЖЕРГЕ BOTFATHER-ДАН АЛҒАН ЖАҢА ТОКЕНДІ ӨЗІҢ ҚОЙ
-BOT_TOKEN = "8857574584:AAG1FRQsHkMQBHOkjR6fFj7jLA3UxIxVbFM"
+BOT_TOKEN = "Your token here"
 
 # Алғашқы іске қосқанда 0 қалдыр
 # Кейін боттан /id арқылы өз ID-іңді алып, осында жаз
